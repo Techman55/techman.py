@@ -2,6 +2,17 @@
 
 General Purpose Python Library
 
+## How to Import
+
+```
+try:
+    import techman
+except ModuleNotFoundError:
+    import sys, subprocess
+    # implement pip as a subprocess:
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', '<packagename>'])
+```
+
 ## Classes
 
 ### Library
