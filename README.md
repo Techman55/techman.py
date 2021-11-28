@@ -2,6 +2,8 @@
 
 General Purpose Python Library by @Techman55
 
+----
+
 ## How to Import
 
 ```
@@ -10,8 +12,10 @@ try:
 except ModuleNotFoundError:
     import sys, subprocess
     # implement pip as a subprocess:
-    subprocess.check_call([sys.executable, '-m', 'pip', 'install', '<packagename>'])
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'techman'])
 ```
+
+----
 
 ## `techman.py` Flag for Your Project's `README.md`
 
@@ -24,9 +28,11 @@ except ModuleNotFoundError:
 > This program uses the `techman.py` general purpose python library. [Learn more](https://py.techmandev.com)
 
 
+-----
+<br><br>
+
 ## Classes
 
----
 
 ### yn
 
