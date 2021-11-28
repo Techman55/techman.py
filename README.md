@@ -1,6 +1,6 @@
 # `techman.py`
 
-General Purpose Python Library by @Techman55
+General Purpose Python Library by [@Techman55](https://github.com/Techman55)
 
 ----
 
@@ -38,8 +38,8 @@ except ModuleNotFoundError:
 
 User input gatherer for Yes/No questions using `input()`
 
-#### `yn.ask()`
-#### `yn.check()`
+#### [`yn.ask()`](docs/yn/ask.md)
+#### [`yn.check()`](docs/yn/check.md)
 
 ---
 
@@ -47,19 +47,19 @@ User input gatherer for Yes/No questions using `input()`
 
 Simple App data and "is first open" tracker
 
-#### `is_first_open()`
+#### [`is_first_open()`]()
 
-#### `reset_first_open()`
+#### [`reset_first_open()`]()
 
-#### `does_config_exist()`
+#### [`does_config_exist()`]()
 
-#### `write_config()`
+#### [`write_config()`]()
 
-#### `read_config()`
+#### [`read_config()`]()
 
-#### `update_config()`
+#### [`update_config()`]()
 
-#### `reset_config()`
+#### [`reset_config()`]()
 
 
 ---
@@ -68,13 +68,13 @@ Simple App data and "is first open" tracker
 
 Easy functions to manage packages from pip
 
-#### `is_package_installed()`
+#### [`is_package_installed()`]()
 
-#### `install()`
+#### [`install()`]()
 
 ---
 ### Functions
 
 Assorted functions that don't fit into a class
 
-#### `set_clipboard()`
+#### [`set_clipboard()`]()
