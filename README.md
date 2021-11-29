@@ -2,6 +2,8 @@
 
 General Purpose Python Library by [@Techman55](https://github.com/Techman55)
 
+> [View on PyPi](https://pypi.org/project/techman)
+
 ----
 
 ## How to Import
