@@ -1,5 +1,7 @@
 # `techman.py`
 
+## Note: Better README.md is on it's way. Check it's progress on the new-docs branch
+
 General Purpose Python Library by @Techman55
 
 ----
